@@ -1,0 +1,3 @@
+PyQt6
+pymata4
+pyserial 
