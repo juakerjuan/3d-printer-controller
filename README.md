@@ -3,7 +3,8 @@ If you find this project helpful, consider buying me a coffee:
 
 [!["Buy Me A Coffee"](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=🍺&slug=juakerjuan&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/juakerjuan)
 
-
+# instructions here
+https://www.youtube.com/watch?v=jbcyophJFFU
 
 # 3D Resin Printer Controller
 
