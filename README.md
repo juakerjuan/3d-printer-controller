@@ -11,6 +11,14 @@ A Python application to control DIY resin 3D printers using Arduino.
 
 ## Prerequisites
 
+### Required Arduino Libraries
+Install these libraries using the Library Manager (Tools > Manage Libraries...):
+- NewPing (for ultrasonic sensors)
+- Ultrasonic
+- Servo
+- DHT sensor library (by Adafruit)
+- DHTStable (by Rob Tillaart)
+
 ### Arduino Setup
 1. Download FirmataExpress from: [https://github.com/MrYsLab/FirmataExpress](https://github.com/MrYsLab/FirmataExpress)
 2. In Arduino IDE:
@@ -19,13 +27,7 @@ A Python application to control DIY resin 3D printers using Arduino.
    - Navigate to File > Examples > FirmataExpress > FirmataExpress
    - Upload to Arduino
 
-### Required Arduino Libraries
-Install these libraries using the Library Manager (Tools > Manage Libraries...):
-- NewPing (for ultrasonic sensors)
-- Ultrasonic
-- Servo
-- DHT sensor library (by Adafruit)
-- DHTStable (by Rob Tillaart)
+
 
 ### Python Dependencies
 Required Python packages:
